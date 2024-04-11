@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/thelar/refreshwheeltransients/issues"
   },
-  "homepage": "https://github.com/thelar/refreshwheeltransients#readme"
+  "homepage": "https://github.com/thelar/refreshwheeltransients#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
 }
